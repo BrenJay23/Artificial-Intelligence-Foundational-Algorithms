@@ -1,1 +1,1 @@
-# Bernoulli Naive Bayes from Scratct
+# Bernoulli Naive Bayes Implemention from Scratch for Spam Filter
