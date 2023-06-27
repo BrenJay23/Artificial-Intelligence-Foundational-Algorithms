@@ -1,1 +1,1 @@
-# Bernoulli Naive Bayes
+# Bernoulli Naive Bayes from Scratct
